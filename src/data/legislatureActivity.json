@@ -1,0 +1,1927 @@
+[
+  {
+    "constituency_id": "ariyalur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Salem (North)",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "jayankondam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Orathanadu",
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "chengalpattu",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Musiri",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "cheyyur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "madurantakam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 6,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "pallavaram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sholinganallur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tambaram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thiruporur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "anna-nagar",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "chepauk-thiruvallikeni",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "dr-radhakrishnan-nagar",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "egmore",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "harbour",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kolathur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Cheyyur",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "mylapore",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "perambur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Ambattur",
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "royapuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "saidapet",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Salem (West)",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "thiru-vi-ka-nagar",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thiyagarayanagar",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thousand-lights",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "velachery",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Vaniyambadi",
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "villivakkam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "virugampakkam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "coimbatore-north",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Harur",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "coimbatore-south",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Karur",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kavundampalayam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kinathukadavu",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "mettupalayam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "pollachi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "singanallur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sulur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thondamuthur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "valparai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "bhuvanagiri",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "chidambaram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "cuddalore",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kattumannarkoil",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kurinjipadi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "neyveli",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "panruti",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Anna Nagar",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "tittakudi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "vridhachalam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "dharmapuri",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "harur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "palacode",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Kumbakonam",
+    "questions_asked": 2,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "pappireddipatti",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "pennagaram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "athoor",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "dindigul",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Kallakurichi",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "natham",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 6,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "nilakkottai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "oddanchatram",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "palani",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vedasandur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Kangayam",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "anthiyur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "bhavani",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "bhavanisagar",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "erode-east",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Thiruporur",
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "erode-west",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "gobichettipalayam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "modakkurichi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "perundurai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kallakurichi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "rishivandiyam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "sankarapuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "ulundurpettai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "alandur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kancheepuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sriperumbudur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "uthiramerur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Sholinghur",
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "colachal",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Vilavancode",
+    "questions_asked": 2,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kanniyakumari",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "killiyoor",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 2,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "nagercoil",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "padmanabhapuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vilavancode",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "aravakurichi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "karur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "krishnarayapuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kulithalai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Tiruttani",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "bargur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "hosur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "krishnagiri",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thally",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Aruppukkottai",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "uthangarai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "veppanahalli",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Coimbatore (South)",
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "madurai-central",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "madurai-east",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Vellore",
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "madurai-north",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "madurai-south",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "madurai-west",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "melur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sholavandan",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thirumangalam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thiruparankundram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "usilampatti",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kilvelur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "mayiladuthurai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "nagapattinam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Papanasam",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "poompuhar",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 2,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "sirkazhi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vedharanyam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Vedaranyam",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kumarapalayam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "namakkal",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "paramathivelur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Paramathi-Velur",
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "rasipuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "senthamangalam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Ponneri",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "tiruchengodu",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kunnam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "perambalur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Mailam",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "alangudi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "aranthangi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Nagapattinam",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "gandarvakottai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Saidapet",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "pudukkottai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "thirumayam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "viralimalai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "mudukulathur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Mudhukulathur",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "paramakudi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "ramanathapuram",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "tiruvadanai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "arakkonam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "arcot",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "ranipet",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sholinghur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "attur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "edappadi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "gangavalli",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 9,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "mettur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Anthiyur",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "omalur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Pennagaram",
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "salem-north",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Thiru-Vi-Ka-Nagar",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "salem-south",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "salem-west",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Villupuram",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "sankari",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "veerapandi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "yercaud",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "karaikudi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "manamadurai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Erode (East)",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "sivaganga",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruppathur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "alangulam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kadayanallur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sankarankovil",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tenkasi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vasudevanallur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Sankarankovil",
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kumbakonam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "orathanadu",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "papanasam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "pattukkottai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "peravurani",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Krishnagiri",
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "thanjavur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thiruvaiyaru",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "thiruvidaimarudur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "coonoor",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Madurai West",
+    "questions_asked": 2,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "gudalur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "udhagamandalam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "andipatti",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "bodinayakkanur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Sirkazhi",
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "cumbum",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "periyakulam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "ambattur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "avadi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "gummidipoondi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "madhavaram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "madhuravoyal",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "ponneri",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Arakkonam",
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "poonamallee",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thiruvottiyur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Palani",
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "tiruttani",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "mannargudi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Nannilam",
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "nannilam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thiruthuraipoondi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "thiruvarur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 5,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kovilpatti",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Pallavaram",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "ottapidaram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "srivaikuntam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Kalasapakkam",
+    "questions_asked": 6,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "thoothukudi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruchendur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "vilathikulam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "lalgudi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "manachanallur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 2,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "manapparai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "musiri",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "srirangam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thiruverumbur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "thuraiyur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruchirappalli-east",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruchirappalli-west",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "ambasamudram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "nanguneri",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "palayamkottai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "radhapuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tirunelveli",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "ambur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "jolarpet",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tirupattur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vaniyambadi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "avanashi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "dharapuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kangayam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "madathukulam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "palladam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruppur-north",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruppur-south",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "udumalaipettai",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "arani",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "chengam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Tiruvannamalai",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "cheyyar",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kalasapakkam",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Polur",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "kilpennathur",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Aranthangi",
+    "questions_asked": 6,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "polur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruvannamalai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Mylapore",
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "vandavasi",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": 3,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "anaikattu",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "gudiyattam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "katpadi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "kilvaithinankuppam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vellore",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "gingee",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "mailam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tindivanam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tirukkoyilur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vanur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "vikravandi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "villupuram",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "aruppukottai",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Arani",
+    "questions_asked": 4,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "rajapalayam",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sattur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "sivakasi",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "srivilliputhur",
+    "has_prior_record": false,
+    "is_incumbent": false
+  },
+  {
+    "constituency_id": "tiruchuli",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "questions_asked": null,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": true,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  },
+  {
+    "constituency_id": "virudhunagar",
+    "has_prior_record": true,
+    "is_incumbent": true,
+    "prev_constituency": "Melur",
+    "questions_asked": 1,
+    "state_avg_questions": 2.87,
+    "is_minister_excluded": false,
+    "is_speaker_excluded": false,
+    "term": "16th Assembly (2021–2026)",
+    "data_window": "Apr 2023 – Oct 2025 (starred questions only)",
+    "source_name": "PRS Legislative Research",
+    "source_url": "https://prsindia.org/mlatrack"
+  }
+]

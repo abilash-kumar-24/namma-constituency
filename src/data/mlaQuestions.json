@@ -1,0 +1,1774 @@
+{
+  "chengalpattu": [
+    {
+      "sr": 1,
+      "question_no": "127",
+      "type": "Starred",
+      "date": "29/06/24",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி"
+    },
+    {
+      "sr": 2,
+      "question_no": "247",
+      "type": "Starred",
+      "date": "24/04/25",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி&nbsp;"
+    }
+  ],
+  "kolathur": [
+    {
+      "sr": 1,
+      "question_no": "84",
+      "type": "Starred",
+      "date": "24/03/25",
+      "minister": "GEETHA JEEVAN, P.",
+      "subject_tamil": "குழந்தைகள் மையம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "66",
+      "type": "Starred",
+      "date": "22/06/24",
+      "minister": "PALANIVEL THIAGA RAJAN",
+      "subject_tamil": "நல வாரியம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "26",
+      "type": "Starred",
+      "date": "18/02/26",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "துணை சுகாதார நிலையம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "275",
+      "type": "Starred",
+      "date": "16/10/25",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "ஆரம்ப சுகாதார நிலையம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "207",
+      "type": "Starred",
+      "date": "09/10/23",
+      "minister": "RAJENDRAN, R.",
+      "subject_tamil": "சுற்றுலாத் தலம்"
+    }
+  ],
+  "perambur": [
+    {
+      "sr": 1,
+      "question_no": "56",
+      "type": "Starred",
+      "date": "21/06/24",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "தொழிலாளர்களைத் தேடி மருத்துவம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "197",
+      "type": "Starred",
+      "date": "20/04/23",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "பொது மருத்துவமனை"
+    },
+    {
+      "sr": 3,
+      "question_no": "226",
+      "type": "Starred",
+      "date": "11/10/23",
+      "minister": "RAJENDRAN, R.",
+      "subject_tamil": "படகு குழாம்"
+    }
+  ],
+  "saidapet": [
+    {
+      "sr": 1,
+      "question_no": "115",
+      "type": "Starred",
+      "date": "28/06/24",
+      "minister": "SAMINATHAN, M.P.",
+      "subject_tamil": "இசைக் கல்லூரி"
+    },
+    {
+      "sr": 2,
+      "question_no": "81",
+      "type": "Starred",
+      "date": "24/03/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "சுற்றுச்சாலை"
+    },
+    {
+      "sr": 3,
+      "question_no": "263",
+      "type": "Starred",
+      "date": "15/10/25",
+      "minister": "REGUPATHY, S.",
+      "subject_tamil": "புதிய குடியிருப்புகள்"
+    },
+    {
+      "sr": 4,
+      "question_no": "150",
+      "type": "Starred",
+      "date": "10/12/24",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "புதிய நூலகக் கட்டடம்"
+    }
+  ],
+  "velachery": [
+    {
+      "sr": 1,
+      "question_no": "249",
+      "type": "Starred",
+      "date": "26/04/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "தடுப்பணை"
+    },
+    {
+      "sr": 2,
+      "question_no": "17",
+      "type": "Starred",
+      "date": "23/01/26",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "வகுப்பறைகள்"
+    },
+    {
+      "sr": 3,
+      "question_no": "47",
+      "type": "Starred",
+      "date": "22/02/24",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி"
+    },
+    {
+      "sr": 4,
+      "question_no": "198",
+      "type": "Starred",
+      "date": "20/04/23",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "சுற்றுச்சுவர்"
+    },
+    {
+      "sr": 5,
+      "question_no": "178",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "சுற்றுச்சுவர்"
+    },
+    {
+      "sr": 6,
+      "question_no": "137",
+      "type": "Starred",
+      "date": "01/04/25",
+      "minister": "",
+      "subject_tamil": "தெரு விளக்குகள்"
+    }
+  ],
+  "coimbatore-north": [
+    {
+      "sr": 1,
+      "question_no": "219",
+      "type": "Starred",
+      "date": "22/04/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "கால்வாயை நீட்டித்தல்"
+    },
+    {
+      "sr": 2,
+      "question_no": "76",
+      "type": "Starred",
+      "date": "21/03/25",
+      "minister": "",
+      "subject_tamil": "துணை மின் நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "228",
+      "type": "Starred",
+      "date": "11/10/23",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "தங்கும் விடுதி"
+    },
+    {
+      "sr": 4,
+      "question_no": "6",
+      "type": "Starred",
+      "date": "08/01/25",
+      "minister": "KR. PERIAKARUPPAN",
+      "subject_tamil": "கூட்டுறவு சங்கத்திற்கு கட்டடம்"
+    }
+  ],
+  "bhuvanagiri": [
+    {
+      "sr": 1,
+      "question_no": "59",
+      "type": "Starred",
+      "date": "21/06/24",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "குடமுழுக்கு"
+    },
+    {
+      "sr": 2,
+      "question_no": "60",
+      "type": "Starred",
+      "date": "19/03/25",
+      "minister": "MATHIVENTHAN, M.",
+      "subject_tamil": "சமுதாயக் கூடம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "149",
+      "type": "Starred",
+      "date": "10/12/24",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "குடமுழுக்கு"
+    },
+    {
+      "sr": 4,
+      "question_no": "216",
+      "type": "Starred",
+      "date": "10/10/23",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "குடமுழுக்கு"
+    },
+    {
+      "sr": 5,
+      "question_no": "175",
+      "type": "Starred",
+      "date": "08/04/25",
+      "minister": "",
+      "subject_tamil": "துணை மின் நிலையம்"
+    }
+  ],
+  "palacode": [
+    {
+      "sr": 1,
+      "question_no": "189",
+      "type": "Starred",
+      "date": "19/04/23",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    },
+    {
+      "sr": 2,
+      "question_no": "50",
+      "type": "Starred",
+      "date": "18/03/25",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "திருக்கோயில் திருப்பணி"
+    }
+  ],
+  "dindigul": [
+    {
+      "sr": 1,
+      "question_no": "101",
+      "type": "Starred",
+      "date": "26/03/25",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "திடக்கழிவு மேலாண்மை"
+    },
+    {
+      "sr": 2,
+      "question_no": "49",
+      "type": "Starred",
+      "date": "22/02/24",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "கூடுதல் வகுப்பறைகள்"
+    },
+    {
+      "sr": 3,
+      "question_no": "217",
+      "type": "Starred",
+      "date": "21/04/25",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "பொதுத் தேர்வு மையம் &nbsp;"
+    },
+    {
+      "sr": 4,
+      "question_no": "111",
+      "type": "Starred",
+      "date": "06/04/23",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "வாய்க்காலைத் தூர்வாருதல்"
+    }
+  ],
+  "natham": [
+    {
+      "sr": 1,
+      "question_no": "175",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "RAJENDRAN, R.",
+      "subject_tamil": "சுற்றுலாத் தலம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "36",
+      "type": "Starred",
+      "date": "17/03/25",
+      "minister": "",
+      "subject_tamil": "குடியிருப்புகள்"
+    },
+    {
+      "sr": 3,
+      "question_no": "279",
+      "type": "Starred",
+      "date": "16/10/25",
+      "minister": "KAYALVIZHI SELVARAJ, N.",
+      "subject_tamil": "போட்டித் தேர்வு பயிற்சி மையம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "21",
+      "type": "Starred",
+      "date": "15/02/24",
+      "minister": "PERIYASAMY, I.",
+      "subject_tamil": "பள்ளிக்கு கட்டடம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "102",
+      "type": "Starred",
+      "date": "05/04/23",
+      "minister": "CHEZHIAAN, GOVI.",
+      "subject_tamil": "கலை மற்றும் அறிவியல் கல்லூரி"
+    },
+    {
+      "sr": 6,
+      "question_no": "159",
+      "type": "Starred",
+      "date": "04/04/25",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "பள்ளிக்கு கட்டடம்"
+    }
+  ],
+  "erode-east": [
+    {
+      "sr": 1,
+      "question_no": "130",
+      "type": "Starred",
+      "date": "29/06/24",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "அடக்கஸ்தலம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "34",
+      "type": "Starred",
+      "date": "21/02/24",
+      "minister": "RAMACHANDRAN, K.K.S.S.R.",
+      "subject_tamil": "கிராம நிருவாக அலுவலகம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "43",
+      "type": "Starred",
+      "date": "18/03/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "தடையில்லாச் சான்றிதழ்"
+    },
+    {
+      "sr": 4,
+      "question_no": "290",
+      "type": "Starred",
+      "date": "17/10/25",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "பள்ளிக்கு புதிய கட்டடம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "107",
+      "type": "Starred",
+      "date": "05/04/23",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி"
+    }
+  ],
+  "perundurai": [
+    {
+      "sr": 1,
+      "question_no": "118",
+      "type": "Starred",
+      "date": "28/06/24",
+      "minister": "",
+      "subject_tamil": "பசுமைப் பூங்காக்கள்"
+    },
+    {
+      "sr": 2,
+      "question_no": "119",
+      "type": "Starred",
+      "date": "27/03/25",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "கிளை நூலகத்திற்கு கட்டடம்&nbsp;"
+    },
+    {
+      "sr": 3,
+      "question_no": "228",
+      "type": "Starred",
+      "date": "22/04/25",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "வக்ஃப் தீர்ப்பாயம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "31",
+      "type": "Starred",
+      "date": "19/02/26",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "பேருந்து நிலையம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "105",
+      "type": "Starred",
+      "date": "05/04/23",
+      "minister": "",
+      "subject_tamil": "சிறப்பு நீதிமன்றம்"
+    }
+  ],
+  "rishivandiyam": [
+    {
+      "sr": 1,
+      "question_no": "89",
+      "type": "Starred",
+      "date": "25/06/24",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "தங்கும் விடுதி"
+    },
+    {
+      "sr": 2,
+      "question_no": "259",
+      "type": "Starred",
+      "date": "15/10/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "நீர்த்தேக்கம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "134",
+      "type": "Starred",
+      "date": "11/04/23",
+      "minister": "KR. PERIAKARUPPAN",
+      "subject_tamil": "தொடக்க வேளாண்மை கூட்டுறவுக் கடன் சங்கம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "165",
+      "type": "Starred",
+      "date": "07/04/25",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    }
+  ],
+  "uthiramerur": [
+    {
+      "sr": 1,
+      "question_no": "280",
+      "type": "Starred",
+      "date": "17/10/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "வரத்துக் கால்வாயினை இணைத்தல்"
+    },
+    {
+      "sr": 2,
+      "question_no": "1",
+      "type": "Starred",
+      "date": "08/01/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "தடுப்பணை"
+    },
+    {
+      "sr": 3,
+      "question_no": "134",
+      "type": "Starred",
+      "date": "01/04/25",
+      "minister": "",
+      "subject_tamil": "சட்டக் கல்லூரி"
+    }
+  ],
+  "kanniyakumari": [
+    {
+      "sr": 1,
+      "question_no": "61",
+      "type": "Starred",
+      "date": "22/06/24",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "மீன்பாசி குத்தகை உரிமை"
+    }
+  ],
+  "killiyoor": [
+    {
+      "sr": 1,
+      "question_no": "249",
+      "type": "Starred",
+      "date": "26/04/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "தடுப்பணை"
+    },
+    {
+      "sr": 2,
+      "question_no": "17",
+      "type": "Starred",
+      "date": "23/01/26",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "வகுப்பறைகள்"
+    },
+    {
+      "sr": 3,
+      "question_no": "47",
+      "type": "Starred",
+      "date": "22/02/24",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி"
+    },
+    {
+      "sr": 4,
+      "question_no": "198",
+      "type": "Starred",
+      "date": "20/04/23",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "சுற்றுச்சுவர்"
+    },
+    {
+      "sr": 5,
+      "question_no": "178",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "சுற்றுச்சுவர்"
+    },
+    {
+      "sr": 6,
+      "question_no": "137",
+      "type": "Starred",
+      "date": "01/04/25",
+      "minister": "",
+      "subject_tamil": "தெரு விளக்குகள்"
+    }
+  ],
+  "aravakurichi": [
+    {
+      "sr": 1,
+      "question_no": "9",
+      "type": "Starred",
+      "date": "22/01/26",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "ஆரம்ப சுகாதார நிலையம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "4",
+      "type": "Starred",
+      "date": "08/01/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "இரயில்வே மேம்பாலம்"
+    }
+  ],
+  "kulithalai": [
+    {
+      "sr": 1,
+      "question_no": "212",
+      "type": "Starred",
+      "date": "21/04/25",
+      "minister": "",
+      "subject_tamil": "சட்டக் கல்லூரி"
+    },
+    {
+      "sr": 2,
+      "question_no": "59",
+      "type": "Starred",
+      "date": "19/03/25",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "மகளிர் கலைக் கல்லூரி"
+    },
+    {
+      "sr": 3,
+      "question_no": "2",
+      "type": "Starred",
+      "date": "13/02/24",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "கூட்டுக் குடிநீர் திட்டம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "118",
+      "type": "Starred",
+      "date": "06/04/23",
+      "minister": "MANO THANGARAJ , T.",
+      "subject_tamil": "பால் குளிரூட்டும் நிலையம்"
+    }
+  ],
+  "madurai-east": [
+    {
+      "sr": 1,
+      "question_no": "89",
+      "type": "Starred",
+      "date": "25/06/24",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "தங்கும் விடுதி"
+    },
+    {
+      "sr": 2,
+      "question_no": "259",
+      "type": "Starred",
+      "date": "15/10/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "நீர்த்தேக்கம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "134",
+      "type": "Starred",
+      "date": "11/04/23",
+      "minister": "KR. PERIAKARUPPAN",
+      "subject_tamil": "தொடக்க வேளாண்மை கூட்டுறவுக் கடன் சங்கம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "165",
+      "type": "Starred",
+      "date": "07/04/25",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    }
+  ],
+  "poompuhar": [
+    {
+      "sr": 1,
+      "question_no": "38",
+      "type": "Starred",
+      "date": "19/02/26",
+      "minister": "SIVASANKAR, S.S.",
+      "subject_tamil": "துணை மின் நிலையம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "203",
+      "type": "Starred",
+      "date": "17/04/25",
+      "minister": "PANNEERSELVAM, M.R.K.",
+      "subject_tamil": "வேளாண் ஒழுங்குமுறை விற்பனைக்கூடம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "23",
+      "type": "Starred",
+      "date": "15/02/24",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி"
+    }
+  ],
+  "vedharanyam": [
+    {
+      "sr": 1,
+      "question_no": "251",
+      "type": "Starred",
+      "date": "26/04/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "பயணியர் மாளிகை"
+    },
+    {
+      "sr": 2,
+      "question_no": "45",
+      "type": "Starred",
+      "date": "18/03/25",
+      "minister": "SAMINATHAN, M.P.",
+      "subject_tamil": "ஔவையார் அறிவுக் களஞ்சியம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "287",
+      "type": "Starred",
+      "date": "17/10/25",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "பக்தர்கள் தங்குமிடம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "168",
+      "type": "Starred",
+      "date": "17/04/23",
+      "minister": "MANO THANGARAJ , T.",
+      "subject_tamil": "பால் குளிரூட்டும் நிலையம்"
+    }
+  ],
+  "paramathivelur": [
+    {
+      "sr": 1,
+      "question_no": "13",
+      "type": "Starred",
+      "date": "23/01/26",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "ஆரம்ப சுகாதார நிலையம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "190",
+      "type": "Starred",
+      "date": "19/04/23",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "மருத்துவமனைக்கு கட்டடம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "55",
+      "type": "Starred",
+      "date": "19/03/25",
+      "minister": "",
+      "subject_tamil": "துணை மின் நிலையம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "11",
+      "type": "Starred",
+      "date": "14/02/24",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "திண்காரைச்&nbsp;சுவர்"
+    }
+  ],
+  "senthamangalam": [
+    {
+      "sr": 1,
+      "question_no": "2",
+      "type": "Short Notice",
+      "date": "24/04/25",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "பக்தர்களுக்கான வசதிகள்"
+    },
+    {
+      "sr": 2,
+      "question_no": "32",
+      "type": "Starred",
+      "date": "21/02/24",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "கூட்டுக் குடிநீர் திட்டம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "144",
+      "type": "Starred",
+      "date": "12/04/23",
+      "minister": "PERIYASAMY, I.",
+      "subject_tamil": "குடிநீர் சுத்திகரிப்பு நிலையம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "146",
+      "type": "Starred",
+      "date": "10/12/24",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    },
+    {
+      "sr": 5,
+      "question_no": "170",
+      "type": "Starred",
+      "date": "07/04/25",
+      "minister": "MATHIVENTHAN, M.",
+      "subject_tamil": "சமுதாயக் கூடம்"
+    }
+  ],
+  "perambalur": [
+    {
+      "sr": 1,
+      "question_no": "104",
+      "type": "Starred",
+      "date": "27/06/24",
+      "minister": "THANGAM THENARASU",
+      "subject_tamil": "மின்மாற்றி"
+    },
+    {
+      "sr": 2,
+      "question_no": "255",
+      "type": "Starred",
+      "date": "26/04/25",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி&nbsp;"
+    },
+    {
+      "sr": 3,
+      "question_no": "36",
+      "type": "Starred",
+      "date": "19/02/26",
+      "minister": "SAKKARAPANI, R.",
+      "subject_tamil": "நியாயவிலைக் கடை"
+    },
+    {
+      "sr": 4,
+      "question_no": "22",
+      "type": "Starred",
+      "date": "10/01/25",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "கழிவுநீர் கால்வாயைச் சீரமைத்தல்"
+    },
+    {
+      "sr": 5,
+      "question_no": "114",
+      "type": "Starred",
+      "date": "06/04/23",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    }
+  ],
+  "ramanathapuram": [
+    {
+      "sr": 1,
+      "question_no": "120",
+      "type": "Starred",
+      "date": "27/03/25",
+      "minister": "RAJAA, T.R.B.",
+      "subject_tamil": "தொழிற்பூங்கா"
+    },
+    {
+      "sr": 2,
+      "question_no": "248",
+      "type": "Starred",
+      "date": "24/04/25",
+      "minister": "GANESAN, C.V.",
+      "subject_tamil": "மகளிர் தொழிற்பயிற்சி நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "177",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "கல்லூரி"
+    },
+    {
+      "sr": 4,
+      "question_no": "212",
+      "type": "Starred",
+      "date": "10/10/23",
+      "minister": "",
+      "subject_tamil": "அடுக்குமாடி குடியிருப்புகள்"
+    },
+    {
+      "sr": 5,
+      "question_no": "139",
+      "type": "Starred",
+      "date": "09/12/24",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "ஓலைச் சுவடிகள்"
+    }
+  ],
+  "attur": [
+    {
+      "sr": 1,
+      "question_no": "71",
+      "type": "Starred",
+      "date": "24/06/24",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "தடுப்பணை"
+    },
+    {
+      "sr": 2,
+      "question_no": "87",
+      "type": "Starred",
+      "date": "24/03/25",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "ஆரம்ப சுகாதார நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "14",
+      "type": "Starred",
+      "date": "23/01/26",
+      "minister": "SIVASANKAR, S.S.",
+      "subject_tamil": "பேருந்து வசதி"
+    },
+    {
+      "sr": 4,
+      "question_no": "182",
+      "type": "Starred",
+      "date": "19/04/23",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "சாலையை அகலப்படுத்துதல்"
+    }
+  ],
+  "gangavalli": [
+    {
+      "sr": 1,
+      "question_no": "95",
+      "type": "Starred",
+      "date": "25/03/25",
+      "minister": "SAKKARAPANI, R.",
+      "subject_tamil": "நெல் கொள்முதல் நிலையம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "245",
+      "type": "Starred",
+      "date": "24/04/25",
+      "minister": "SAKKARAPANI, R.",
+      "subject_tamil": "நேரடி நெல் கொள்முதல் நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "173",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "பாலம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "144",
+      "type": "Starred",
+      "date": "10/12/24",
+      "minister": "ANITHA R. RADHAKRISHNAN",
+      "subject_tamil": "கால்நடை மருத்துவமனை"
+    },
+    {
+      "sr": 5,
+      "question_no": "219",
+      "type": "Starred",
+      "date": "10/10/23",
+      "minister": "MATHIVENTHAN, M.",
+      "subject_tamil": "தார்ச்சாலை அமைத்தல்"
+    }
+  ],
+  "mettur": [
+    {
+      "sr": 1,
+      "question_no": "125",
+      "type": "Starred",
+      "date": "28/03/25",
+      "minister": "RAJENDRAN, R.",
+      "subject_tamil": "படகுகள்&nbsp;"
+    },
+    {
+      "sr": 2,
+      "question_no": "58",
+      "type": "Starred",
+      "date": "21/06/24",
+      "minister": "",
+      "subject_tamil": "கூடுதல் சிற்றுந்து வசதி&nbsp;"
+    },
+    {
+      "sr": 3,
+      "question_no": "208",
+      "type": "Starred",
+      "date": "09/10/23",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "ஆரம்ப சுகாதார நிலையம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "190",
+      "type": "Starred",
+      "date": "09/04/25",
+      "minister": "CHEZHIAAN, GOVI.",
+      "subject_tamil": "கலைக் கல்லூரி"
+    }
+  ],
+  "omalur": [
+    {
+      "sr": 1,
+      "question_no": "78",
+      "type": "Starred",
+      "date": "24/06/24",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "தேவாலயங்கள் மற்றும் மசூதிகள்"
+    },
+    {
+      "sr": 2,
+      "question_no": "62",
+      "type": "Starred",
+      "date": "20/03/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "இருவழிச் சாலை"
+    },
+    {
+      "sr": 3,
+      "question_no": "271",
+      "type": "Starred",
+      "date": "16/10/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "அலுவலகத்திற்குக் கட்டடம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "6",
+      "type": "Starred",
+      "date": "13/02/24",
+      "minister": "THANGAM THENARASU",
+      "subject_tamil": "புனல் மின் திட்டம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "163",
+      "type": "Starred",
+      "date": "07/04/25",
+      "minister": "RAJAKANNAPPAN, R.S.",
+      "subject_tamil": "பசுமைப் பரப்பு&nbsp;"
+    }
+  ],
+  "salem-north": [
+    {
+      "sr": 1,
+      "question_no": "104",
+      "type": "Starred",
+      "date": "27/06/24",
+      "minister": "THANGAM THENARASU",
+      "subject_tamil": "மின்மாற்றி"
+    },
+    {
+      "sr": 2,
+      "question_no": "255",
+      "type": "Starred",
+      "date": "26/04/25",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி&nbsp;"
+    },
+    {
+      "sr": 3,
+      "question_no": "36",
+      "type": "Starred",
+      "date": "19/02/26",
+      "minister": "SAKKARAPANI, R.",
+      "subject_tamil": "நியாயவிலைக் கடை"
+    },
+    {
+      "sr": 4,
+      "question_no": "22",
+      "type": "Starred",
+      "date": "10/01/25",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "கழிவுநீர் கால்வாயைச் சீரமைத்தல்"
+    },
+    {
+      "sr": 5,
+      "question_no": "114",
+      "type": "Starred",
+      "date": "06/04/23",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    }
+  ],
+  "vasudevanallur": [
+    {
+      "sr": 1,
+      "question_no": "85",
+      "type": "Starred",
+      "date": "24/03/25",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    },
+    {
+      "sr": 2,
+      "question_no": "197",
+      "type": "Starred",
+      "date": "15/04/25",
+      "minister": "",
+      "subject_tamil": "போக்குவரத்துப் பணிமனை&nbsp;"
+    },
+    {
+      "sr": 3,
+      "question_no": "204",
+      "type": "Starred",
+      "date": "09/10/23",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "உயர்மட்டப் பாலம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "103",
+      "type": "Starred",
+      "date": "05/04/23",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "மேம்பாலம்"
+    }
+  ],
+  "pattukkottai": [
+    {
+      "sr": 1,
+      "question_no": "128",
+      "type": "Starred",
+      "date": "29/06/24",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "திருப்பணி"
+    },
+    {
+      "sr": 2,
+      "question_no": "96",
+      "type": "Starred",
+      "date": "25/03/25",
+      "minister": "",
+      "subject_tamil": "துணை மின் நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "11",
+      "type": "Starred",
+      "date": "23/01/26",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "ரவுண்டானா"
+    },
+    {
+      "sr": 4,
+      "question_no": "187",
+      "type": "Starred",
+      "date": "19/04/23",
+      "minister": "SAMINATHAN, M.P.",
+      "subject_tamil": "பூங்கா"
+    },
+    {
+      "sr": 5,
+      "question_no": "14",
+      "type": "Starred",
+      "date": "14/02/24",
+      "minister": "SAMINATHAN, M.P.",
+      "subject_tamil": "மணிமண்டபத்திற்கு பூங்கா"
+    }
+  ],
+  "peravurani": [
+    {
+      "sr": 1,
+      "question_no": "107",
+      "type": "Starred",
+      "date": "27/06/24",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "குடமுழுக்கு"
+    },
+    {
+      "sr": 2,
+      "question_no": "73",
+      "type": "Starred",
+      "date": "21/03/25",
+      "minister": "KR. PERIAKARUPPAN",
+      "subject_tamil": "முழுநேர நியாயவிலைக் கடை"
+    },
+    {
+      "sr": 3,
+      "question_no": "191",
+      "type": "Starred",
+      "date": "20/04/23",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "பாதாளச் சாக்கடைத் திட்டம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "194",
+      "type": "Starred",
+      "date": "15/04/25",
+      "minister": "SAKKARAPANI, R.",
+      "subject_tamil": "நெல் கொள்முதல் நிலையம் &nbsp;"
+    }
+  ],
+  "thiruvaiyaru": [
+    {
+      "sr": 1,
+      "question_no": "2",
+      "type": "Short Notice",
+      "date": "24/04/25",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "பக்தர்களுக்கான வசதிகள்"
+    },
+    {
+      "sr": 2,
+      "question_no": "32",
+      "type": "Starred",
+      "date": "21/02/24",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "கூட்டுக் குடிநீர் திட்டம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "144",
+      "type": "Starred",
+      "date": "12/04/23",
+      "minister": "PERIYASAMY, I.",
+      "subject_tamil": "குடிநீர் சுத்திகரிப்பு நிலையம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "146",
+      "type": "Starred",
+      "date": "10/12/24",
+      "minister": "",
+      "subject_tamil": "மின்மாற்றி"
+    },
+    {
+      "sr": 5,
+      "question_no": "170",
+      "type": "Starred",
+      "date": "07/04/25",
+      "minister": "MATHIVENTHAN, M.",
+      "subject_tamil": "சமுதாயக் கூடம்"
+    }
+  ],
+  "coonoor": [
+    {
+      "sr": 1,
+      "question_no": "2",
+      "type": "Starred",
+      "date": "22/01/26",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "ஆய்வு மாளிகை"
+    },
+    {
+      "sr": 2,
+      "question_no": "267",
+      "type": "Starred",
+      "date": "15/10/25",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "ஆரம்ப சுகாதார நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "157",
+      "type": "Starred",
+      "date": "13/04/23",
+      "minister": "",
+      "subject_tamil": "போக்குவரத்துப் பணிமனை"
+    }
+  ],
+  "bodinayakkanur": [
+    {
+      "sr": 1,
+      "question_no": "116",
+      "type": "Starred",
+      "date": "28/06/24",
+      "minister": "MOORTHY, P.",
+      "subject_tamil": "சார்பதிவாளர் அலுவலகம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "244",
+      "type": "Starred",
+      "date": "24/04/25",
+      "minister": "ANITHA R. RADHAKRISHNAN",
+      "subject_tamil": "மீன்பிடித் துறைமுகம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "268",
+      "type": "Starred",
+      "date": "15/10/25",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "திருமண மண்டபம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "132",
+      "type": "Starred",
+      "date": "11/04/23",
+      "minister": "RAJAA, T.R.B.",
+      "subject_tamil": "சிப்காட் தொழிற்பேட்டை"
+    },
+    {
+      "sr": 5,
+      "question_no": "150",
+      "type": "Starred",
+      "date": "02/04/25",
+      "minister": "GANESAN, C.V.",
+      "subject_tamil": "தொழிற்பயிற்சி நிலையம்"
+    }
+  ],
+  "ponneri": [
+    {
+      "sr": 1,
+      "question_no": "218",
+      "type": "Starred",
+      "date": "21/04/25",
+      "minister": "SIVA. V.MEYYANATHAN",
+      "subject_tamil": "விடுதி"
+    },
+    {
+      "sr": 2,
+      "question_no": "40",
+      "type": "Starred",
+      "date": "19/02/26",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "கூடுதல் வகுப்பறைகள்"
+    },
+    {
+      "sr": 3,
+      "question_no": "278",
+      "type": "Starred",
+      "date": "16/10/25",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "நூலகத்திற்கு கட்டடம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "24",
+      "type": "Starred",
+      "date": "10/01/25",
+      "minister": "RAMACHANDRAN, K.K.S.S.R.",
+      "subject_tamil": "வட்டாட்சியர் அலுவலகத்திற்கு புதிய கட்டடம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "120",
+      "type": "Starred",
+      "date": "06/04/23",
+      "minister": "MATHIVENTHAN, M.",
+      "subject_tamil": "மாணவியர் விடுதி"
+    },
+    {
+      "sr": 6,
+      "question_no": "138",
+      "type": "Starred",
+      "date": "01/04/25",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "ஆரம்ப சுகாதார நிலையம்"
+    }
+  ],
+  "thiruvottiyur": [
+    {
+      "sr": 1,
+      "question_no": "249",
+      "type": "Starred",
+      "date": "26/04/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "தடுப்பணை"
+    },
+    {
+      "sr": 2,
+      "question_no": "17",
+      "type": "Starred",
+      "date": "23/01/26",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "வகுப்பறைகள்"
+    },
+    {
+      "sr": 3,
+      "question_no": "47",
+      "type": "Starred",
+      "date": "22/02/24",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி"
+    },
+    {
+      "sr": 4,
+      "question_no": "198",
+      "type": "Starred",
+      "date": "20/04/23",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "சுற்றுச்சுவர்"
+    },
+    {
+      "sr": 5,
+      "question_no": "178",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "NASAR, S.M.",
+      "subject_tamil": "சுற்றுச்சுவர்"
+    },
+    {
+      "sr": 6,
+      "question_no": "137",
+      "type": "Starred",
+      "date": "01/04/25",
+      "minister": "",
+      "subject_tamil": "தெரு விளக்குகள்"
+    }
+  ],
+  "mannargudi": [
+    {
+      "sr": 1,
+      "question_no": "94",
+      "type": "Starred",
+      "date": "25/03/25",
+      "minister": "RAJENDRAN, R.",
+      "subject_tamil": "குருஸ்தலம்&nbsp;"
+    },
+    {
+      "sr": 2,
+      "question_no": "237",
+      "type": "Starred",
+      "date": "23/04/25",
+      "minister": "SIVA. V.MEYYANATHAN",
+      "subject_tamil": "மாணவியர் விடுதி&nbsp;"
+    },
+    {
+      "sr": 3,
+      "question_no": "12",
+      "type": "Starred",
+      "date": "23/01/26",
+      "minister": "RAJAKANNAPPAN, R.S.",
+      "subject_tamil": "மண்பாண்ட தொழிற்கூடம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "194",
+      "type": "Starred",
+      "date": "20/04/23",
+      "minister": "",
+      "subject_tamil": "புதிய கட்டடம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "28",
+      "type": "Starred",
+      "date": "15/02/24",
+      "minister": "MANO THANGARAJ , T.",
+      "subject_tamil": "பால் குளிரூட்டும் நிலையம்"
+    },
+    {
+      "sr": 6,
+      "question_no": "13",
+      "type": "Starred",
+      "date": "09/01/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "புறவழிச் சாலை"
+    }
+  ],
+  "thiruthuraipoondi": [
+    {
+      "sr": 1,
+      "question_no": "115",
+      "type": "Starred",
+      "date": "27/03/25",
+      "minister": "SAMINATHAN, M.P.",
+      "subject_tamil": "நூலகக் கட்டடம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "79",
+      "type": "Starred",
+      "date": "24/06/24",
+      "minister": "MANO THANGARAJ , T.",
+      "subject_tamil": "பால் கொள்முதல் நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "222",
+      "type": "Starred",
+      "date": "22/04/25",
+      "minister": "THANGAM THENARASU",
+      "subject_tamil": "சார்நிலை கருவூலத்திற்கு கட்டடம்"
+    },
+    {
+      "sr": 4,
+      "question_no": "180",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "GANESAN, C.V.",
+      "subject_tamil": "தொழிற்பயிற்சி நிலையம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "213",
+      "type": "Starred",
+      "date": "10/10/23",
+      "minister": "GEETHA JEEVAN, P.",
+      "subject_tamil": "விடுதி"
+    },
+    {
+      "sr": 6,
+      "question_no": "30",
+      "type": "Starred",
+      "date": "10/01/25",
+      "minister": "KAYALVIZHI SELVARAJ, N.",
+      "subject_tamil": "பயிற்சி மையம்"
+    }
+  ],
+  "thiruvarur": [
+    {
+      "sr": 1,
+      "question_no": "80",
+      "type": "Starred",
+      "date": "21/03/25",
+      "minister": "ANBIL MAHESH POYYAMOZHI",
+      "subject_tamil": "நூலகம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "31",
+      "type": "Starred",
+      "date": "21/02/24",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "வாய்க்காலைத் தூர்வாருதல்"
+    },
+    {
+      "sr": 3,
+      "question_no": "121",
+      "type": "Starred",
+      "date": "10/04/23",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "புதிய அணை"
+    }
+  ],
+  "kovilpatti": [
+    {
+      "sr": 1,
+      "question_no": "99",
+      "type": "Starred",
+      "date": "26/06/24",
+      "minister": "",
+      "subject_tamil": "மாசுக்கட்டுபாடு வாரிய அலுவலகம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "86",
+      "type": "Starred",
+      "date": "24/03/25",
+      "minister": "GANDHI, R.",
+      "subject_tamil": "கோ-ஆப்டெக்ஸ் விற்பனை நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "215",
+      "type": "Starred",
+      "date": "21/04/25",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "புதிய குடியிருப்புகள்"
+    },
+    {
+      "sr": 4,
+      "question_no": "166",
+      "type": "Starred",
+      "date": "17/04/23",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "மருத்துவமனையைத் தரம் உயர்த்துதல்"
+    }
+  ],
+  "srivaikuntam": [
+    {
+      "sr": 1,
+      "question_no": "229",
+      "type": "Starred",
+      "date": "23/04/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "அணைக்கட்டு"
+    },
+    {
+      "sr": 2,
+      "question_no": "38",
+      "type": "Starred",
+      "date": "17/03/25",
+      "minister": "",
+      "subject_tamil": "துணை மின் நிலையம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "269",
+      "type": "Starred",
+      "date": "16/10/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "ஏரிகளை இணைத்தல்"
+    },
+    {
+      "sr": 4,
+      "question_no": "138",
+      "type": "Starred",
+      "date": "09/12/24",
+      "minister": "",
+      "subject_tamil": "போக்குவரத்துப் பணிமனை"
+    },
+    {
+      "sr": 5,
+      "question_no": "201",
+      "type": "Starred",
+      "date": "09/10/23",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "அணையைப் புனரமைத்தல்"
+    },
+    {
+      "sr": 6,
+      "question_no": "181",
+      "type": "Starred",
+      "date": "09/04/25",
+      "minister": "DURAIMURUGAN",
+      "subject_tamil": "அணை"
+    }
+  ],
+  "vilathikulam": [
+    {
+      "sr": 1,
+      "question_no": "154",
+      "type": "Starred",
+      "date": "13/04/23",
+      "minister": "ANITHA R. RADHAKRISHNAN",
+      "subject_tamil": "குடியிருப்புகள்"
+    }
+  ],
+  "manachanallur": [
+    {
+      "sr": 1,
+      "question_no": "230",
+      "type": "Starred",
+      "date": "23/04/25",
+      "minister": "NEHRU, K.N.",
+      "subject_tamil": "கூட்டுக் குடிநீர் திட்டம் &nbsp;"
+    },
+    {
+      "sr": 2,
+      "question_no": "158",
+      "type": "Starred",
+      "date": "13/04/23",
+      "minister": "P. K. SEKARBABU",
+      "subject_tamil": "குடமுழுக்கு"
+    }
+  ],
+  "palayamkottai": [
+    {
+      "sr": 1,
+      "question_no": "174",
+      "type": "Starred",
+      "date": "18/04/23",
+      "minister": "KR. PERIAKARUPPAN",
+      "subject_tamil": "வட்டியில்லாக் கடன்"
+    },
+    {
+      "sr": 2,
+      "question_no": "148",
+      "type": "Starred",
+      "date": "10/12/24",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி"
+    },
+    {
+      "sr": 3,
+      "question_no": "147",
+      "type": "Starred",
+      "date": "02/04/25",
+      "minister": "",
+      "subject_tamil": "பேருந்து வசதி&nbsp;&nbsp;"
+    }
+  ],
+  "ambur": [
+    {
+      "sr": 1,
+      "question_no": "254",
+      "type": "Starred",
+      "date": "26/04/25",
+      "minister": "MANO THANGARAJ , T.",
+      "subject_tamil": "பால் குளிரூட்டும் நிலையம்"
+    },
+    {
+      "sr": 2,
+      "question_no": "75",
+      "type": "Starred",
+      "date": "24/06/24",
+      "minister": "RAJENDRAN, R.",
+      "subject_tamil": "சுற்றுலாத் தலம்"
+    },
+    {
+      "sr": 3,
+      "question_no": "22",
+      "type": "Starred",
+      "date": "18/02/26",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "சாலையை மேம்படுத்துதல்"
+    },
+    {
+      "sr": 4,
+      "question_no": "164",
+      "type": "Starred",
+      "date": "17/04/23",
+      "minister": "ANITHA R. RADHAKRISHNAN",
+      "subject_tamil": "கால்நடை மருத்துவமனை"
+    },
+    {
+      "sr": 5,
+      "question_no": "166",
+      "type": "Starred",
+      "date": "07/04/25",
+      "minister": "Ma. SUBRAMANIAN",
+      "subject_tamil": "துணை சுகாதார நிலையம்&nbsp;"
+    }
+  ],
+  "kalasapakkam": [
+    {
+      "sr": 1,
+      "question_no": "1",
+      "type": "Starred",
+      "date": "31/03/23",
+      "minister": "RAJAKANNAPPAN, R.S.",
+      "subject_tamil": "TEST STARRED QUESTION -31.03.2023"
+    },
+    {
+      "sr": 2,
+      "question_no": "1",
+      "type": "Unstarred",
+      "date": "31/03/23",
+      "minister": "RAJAKANNAPPAN, R.S.",
+      "subject_tamil": "TEST UNSTARRED QUESTION-31.03.2023"
+    },
+    {
+      "sr": 3,
+      "question_no": "238",
+      "type": "Starred",
+      "date": "23/04/25",
+      "minister": "RAJAA, T.R.B.",
+      "subject_tamil": "சிப்காட் தொழிற்பேட்டை"
+    },
+    {
+      "sr": 4,
+      "question_no": "44",
+      "type": "Starred",
+      "date": "22/02/24",
+      "minister": "SAMINATHAN, M.P.",
+      "subject_tamil": "கலை பண்பாட்டு மையம்"
+    },
+    {
+      "sr": 5,
+      "question_no": "4",
+      "type": "Starred",
+      "date": "22/01/26",
+      "minister": "REGUPATHY, S.",
+      "subject_tamil": "சிறைச்சாலை"
+    },
+    {
+      "sr": 6,
+      "question_no": "185",
+      "type": "Starred",
+      "date": "19/04/23",
+      "minister": "KR. PERIAKARUPPAN",
+      "subject_tamil": "கூட்டுறவு மேலாண்மை பயிற்சி நிலையம்"
+    },
+    {
+      "sr": 7,
+      "question_no": "33",
+      "type": "Starred",
+      "date": "17/03/25",
+      "minister": "VELU, E.V.",
+      "subject_tamil": "சாலையை அகலப்படுத்துதல்"
+    }
+  ],
+  "vandavasi": [
+    {
+      "sr": 1,
+      "question_no": "109",
+      "type": "Starred",
+      "date": "27/06/24",
+      "minister": "MANO THANGARAJ , T.",
+      "subject_tamil": "பால் குளிரூட்டும் நிலையம்&nbsp;"
+    },
+    {
+      "sr": 2,
+      "question_no": "214",
+      "type": "Starred",
+      "date": "10/10/23",
+      "minister": "SIVA. V.MEYYANATHAN",
+      "subject_tamil": "கோரைப்பாய் நெசவுப் பூங்கா"
+    },
+    {
+      "sr": 3,
+      "question_no": "119",
+      "type": "Starred",
+      "date": "06/04/23",
+      "minister": "GANESAN, C.V.",
+      "subject_tamil": "தொழிற்பயிற்சி நிலையம்"
+    }
+  ],
+  "virudhunagar": [
+    {
+      "sr": 1,
+      "question_no": "134",
+      "type": "Starred",
+      "date": "09/12/24",
+      "minister": "KR. PERIAKARUPPAN",
+      "subject_tamil": "பகுதிநேர நியாயவிலைக் கடை"
+    }
+  ]
+}

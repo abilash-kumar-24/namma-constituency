@@ -1,0 +1,104 @@
+[
+  {
+    "id": "roads",
+    "category": "Roads & Potholes",
+    "icon": "construction",
+    "color": "orange",
+    "likely_department": "Highways & Minor Ports Dept. / Local Body (Corporation / Municipality / Panchayat)",
+    "what_to_prepare": [
+      "Exact location or address of the problem",
+      "Photo of the pothole or road damage",
+      "How long the issue has existed",
+      "Any prior complaints filed (if applicable)"
+    ],
+    "expected_resolution_type": "Field inspection followed by repair work. Typical timeframe: 15–30 days for urban areas.",
+    "guidance_note": "For city roads, contact your Municipal Corporation. For state highways, approach the Highways Department. The CPGRAMS portal can route grievances to the relevant state or central department.",
+    "portal_name": "CPGRAMS Grievance Portal",
+    "portal_url": "https://pgportal.gov.in"
+  },
+  {
+    "id": "water",
+    "category": "Drinking Water",
+    "icon": "droplets",
+    "color": "blue",
+    "likely_department": "TWAD Board (rural) / CMWSSB (Chennai) / Municipal Water Dept. (urban)",
+    "what_to_prepare": [
+      "Your address and area pin code",
+      "Type of issue: no supply, contamination, low pressure, or broken pipe",
+      "How many households are affected",
+      "When the issue started"
+    ],
+    "expected_resolution_type": "For pipeline breaks: 24–48 hours. For supply complaints: 3–7 days depending on infrastructure.",
+    "guidance_note": "Chennai residents can call CMWSSB helpline 45674567. For other districts, contact TWAD Board's local division office. Document the issue with photos if water appears discoloured.",
+    "portal_name": "TWAD Board Grievance",
+    "portal_url": "https://www.twadboard.tn.gov.in"
+  },
+  {
+    "id": "drainage",
+    "category": "Drainage & Sewage",
+    "icon": "waves",
+    "color": "gray",
+    "likely_department": "Local Body (Corporation / Town Panchayat) / CMWSSB (Chennai)",
+    "what_to_prepare": [
+      "Location of blocked drain or sewage overflow",
+      "Photos showing the blockage or flooding",
+      "Frequency of the problem (seasonal or constant)",
+      "Impact on public health or movement"
+    ],
+    "expected_resolution_type": "Emergency overflow: same day to 72 hours. Structural drain issues may take 30–60 days.",
+    "guidance_note": "Drainage is handled by local urban bodies. Visit or call your ward councillor's office for fastest response. If stormwater and sewage are mixing, escalate as a public health issue.",
+    "portal_name": "TN Urban Local Bodies Portal",
+    "portal_url": "https://www.tn.gov.in/dept/ulb"
+  },
+  {
+    "id": "sanitation",
+    "category": "Sanitation & Waste",
+    "icon": "trash-2",
+    "color": "green",
+    "likely_department": "Municipal Corporation / Town Panchayat Solid Waste Management wing",
+    "what_to_prepare": [
+      "Address of uncollected waste or open dumping site",
+      "How long the issue has persisted",
+      "Is it a public space, road, or near a school or water body?",
+      "Photos of the dumping location"
+    ],
+    "expected_resolution_type": "Urgent clearing for waste near hospitals or schools: 24–48 hours. Regular collection complaints: 2–5 days.",
+    "guidance_note": "Contact your local ward office or the Swachh Bharat Mission TN unit. For large illegal dump sites, the Tamil Nadu Pollution Control Board (TNPCB) also takes complaints.",
+    "portal_name": "Swachh Bharat Mission TN",
+    "portal_url": "https://swachhbharatmission.gov.in"
+  },
+  {
+    "id": "transport",
+    "category": "Public Transport",
+    "icon": "bus",
+    "color": "teal",
+    "likely_department": "Tamil Nadu State Transport Corporation (TNSTC) / MTC (Chennai)",
+    "what_to_prepare": [
+      "Bus route number or stop name",
+      "Type of issue: no buses, overcrowding, poor schedule, or unsafe driving",
+      "Time of day when the problem occurs",
+      "How many people are affected"
+    ],
+    "expected_resolution_type": "Schedule or service complaints: review within 7–14 days. New route requests go through formal review and may take months.",
+    "guidance_note": "Chennai residents can call MTC helpline 044-25332222. For other districts, contact your local TNSTC division. Organised community petitions often get faster attention.",
+    "portal_name": "MTC Chennai Feedback",
+    "portal_url": "https://www.mtcbus.in"
+  },
+  {
+    "id": "welfare",
+    "category": "Welfare Schemes",
+    "icon": "heart-handshake",
+    "color": "purple",
+    "likely_department": "Social Welfare Dept. / Adi Dravidar Welfare / BC Welfare / Revenue Dept.",
+    "what_to_prepare": [
+      "Your Aadhaar and ration card details",
+      "Scheme name you are applying for or facing issues with",
+      "Documents showing eligibility (income certificate, caste certificate, etc.)",
+      "Any previous application or reference number"
+    ],
+    "expected_resolution_type": "Scheme eligibility queries: 7–15 days. Payment-related issues: 15–30 days depending on the scheme.",
+    "guidance_note": "Visit your nearest Citizen Service Centre (CSC) or e-Sevai centre. Many TN welfare schemes can also be accessed through the Tamil Nadu e-Governance portal. MLAs' constituency offices often help with document verification.",
+    "portal_name": "TN e-Sevai Services",
+    "portal_url": "https://www.tnesevai.tn.gov.in"
+  }
+]
