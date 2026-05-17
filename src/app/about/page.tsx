@@ -74,7 +74,7 @@ export default function AboutPage() {
                 },
                 {
                   name: "National Family Health Survey 5 (NFHS-5, 2019–21)",
-                  url: "https://rchiips.org/nfhs/NFHS-5Reports/TamilNadu.pdf",
+                  url: "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=1150&lid=679",
                   what:
                     "Child vaccination coverage and anaemia in women figures. Tamil Nadu state averages are exact as published (73.3% vaccination, 44.6% anaemia). District-level figures are approximated from state and district factsheets and may vary ±5–10% from official district values.",
                   type: "Health survey data",
@@ -82,7 +82,7 @@ export default function AboutPage() {
                 },
                 {
                   name: "National Crime Records Bureau (NCRB 2022)",
-                  url: "https://ncrb.gov.in/crime-in-india-table-additional-table-and-chapter-contents",
+                  url: "https://ncrb.gov.in",
                   what:
                     "Crimes against women per lakh population. Tamil Nadu state rate is based on published NCRB data. District-level figures are estimates derived from published state data and should be treated as indicative only.",
                   type: "Crime statistics",
@@ -90,7 +90,7 @@ export default function AboutPage() {
                 },
                 {
                   name: "MGNREGS Management Information System (2022–23)",
-                  url: "https://nrega.nic.in/MGNREGA_new/Nrega_Still_Report.aspx",
+                  url: "https://nrega.nic.in",
                   what:
                     "MGNREGS person-days of employment generated per district in 2022–23. Figures are indicative estimates based on published state-level MIS reports. Not applicable to fully urban districts (Chennai).",
                   type: "Rural employment data",
