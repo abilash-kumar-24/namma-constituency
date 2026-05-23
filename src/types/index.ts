@@ -81,3 +81,16 @@ export interface SearchResult {
   representative: Representative;
   indicators: DistrictIndicator[];
 }
+
+export interface ElectionResult {
+  constituency_name: string;
+  eci_no: number;
+  winner_votes: number | null;
+  runnerup_votes: number | null;
+  margin: number | null;
+  nota_votes: number | null;
+  total_votes_cast: number | null;
+  rounds_completed: number | null;
+  rounds_total: number | null;
+  source: string;
+}

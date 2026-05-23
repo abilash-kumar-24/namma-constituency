@@ -57,6 +57,14 @@ export default function AboutPage() {
             <div className="space-y-4">
               {[
                 {
+                  name: "Election Commission of India — 2026 TN Assembly Results",
+                  url: "https://results.eci.gov.in/ResultAcGenMay2026/index.htm",
+                  what:
+                    "Official 2026 Tamil Nadu Assembly election results: winner votes, runner-up votes, winning margin, NOTA votes, and total votes cast per constituency. Data sourced directly from ECI's constituency-wise results as declared by Returning Officers. 233 of 234 constituencies covered (THIRUVALLUR result pending on primary data source).",
+                  type: "Official election results — May 2026",
+                  accuracy: "official",
+                },
+                {
                   name: "MyNeta India (Association for Democratic Reforms)",
                   url: "https://www.myneta.info/TamilNadu2026/",
                   what:

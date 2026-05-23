@@ -8,12 +8,14 @@ import { AreaIndicators } from "@/components/constituency/AreaIndicators";
 import { CitizenInterpretation } from "@/components/constituency/CitizenInterpretation";
 import { PublicActionSection } from "@/components/constituency/PublicActionSection";
 import { LegislatureActivityCard } from "@/components/constituency/LegislatureActivity";
+import { ElectionResultsCard } from "@/components/constituency/ElectionResults";
 import { ShareButton } from "@/components/constituency/ShareButton";
 import representatives from "@/data/representatives.json";
 import districtIndicators from "@/data/districtIndicators.json";
 import legislatureActivity from "@/data/legislatureActivity.json";
 import mlaQuestions from "@/data/mlaQuestions.json";
-import type { Representative, DistrictIndicator, DistrictIndicatorGroup, LegislatureActivity } from "@/types";
+import electionResults from "@/data/electionResults.json";
+import type { Representative, DistrictIndicator, DistrictIndicatorGroup, LegislatureActivity, ElectionResult } from "@/types";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -49,6 +51,7 @@ export default async function ConstituencyPage({ params }: PageProps) {
     (a) => a.constituency_id === rep.id
   );
   const questions = (mlaQuestions as Record<string, unknown[]>)[rep.id];
+  const electionResult = (electionResults as Record<string, ElectionResult>)[rep.id];
 
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6">
@@ -76,6 +79,7 @@ export default async function ConstituencyPage({ params }: PageProps) {
       {/* Sections */}
       <div className="space-y-5">
         <RepresentativeOverview rep={rep} />
+        {electionResult && <ElectionResultsCard result={electionResult} rep={rep} />}
         <AffidavitSnapshot rep={rep} />
         {activity && (
           <LegislatureActivityCard
